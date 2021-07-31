@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# About this
 
 Sample application that exposes Dynamsoft Web Twain components as a hidden element for customizable implementations of it.
 
